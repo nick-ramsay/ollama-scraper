@@ -4,7 +4,7 @@ A command-line tool that scrapes stock fundamentals from Finviz and uses a local
 
 Given a stock ticker symbol, the application fetches key financial metrics such as P/E ratio, market cap, dividend yield, and more, then sends this data to a locally-running LLM for analysis. The LLM returns a brief summary of the investment opportunity along with a buy/hold/sell recommendation.
 
-**This application is merely a technical demonstration and should not be taken as financial advice.**
+_This application is merely a technical demonstration and should not be taken as financial advice._
 
 ## How It Works
 
